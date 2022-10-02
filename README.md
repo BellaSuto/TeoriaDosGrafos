@@ -1,10 +1,4 @@
-# Teoria_dos_grafos
+## Disciplina Teoria dos grafos
+# Ministrada pela Professora Patrícia Araújo
 
-### Atividade da Disciplina Teoria dos Grafos
-
-Ministrada pela Professora Patrícia Araújo
-
-- Modificar os códigos de busca em largura e em profundidade da aula anterior para que ele realize uma varredura em todo o grafo. Apresentar 5 exemplos de execução e comparar os resultados com os resultados do [https://graphonline.ru/pt/](https://graphonline.ru/pt/)
-
-Comparação:
-https://drive.google.com/file/d/1hqzl3JQGv7RmhF3m_cznLumWVL7IYCvq/view?usp=sharing
+Repositório feito para a entrega das atividades da disciplina Teoria dos Grafos oferecida no curso de Ciência da Computação-UNIFAP
