@@ -26,7 +26,7 @@ public class Aresta {
     public void setVerticeInicial(Vertice verticeInicial) {
         this.verticeInicial = verticeInicial;
     }
-
+    
     public Vertice getVerticeFinal() {
         return verticeFinal;
     }
